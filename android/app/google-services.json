@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389437531906",
+    "project_id": "loge-6a583",
+    "storage_bucket": "loge-6a583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389437531906:android:b7d8ad8124a9a97884c41b",
+        "android_client_info": {
+          "package_name": "com.example.bakk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389437531906-mcs9sn9fqmv4953uh9dptvqnih3t3ihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PwQQ4RUg91DOYGKFu30lIQmo7R_jS0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389437531906-mcs9sn9fqmv4953uh9dptvqnih3t3ihh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
